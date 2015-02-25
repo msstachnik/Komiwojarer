@@ -2,6 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
+#myfiles
+*.pdf
+*.fig
+
+
+
 # Folder config file
 Desktop.ini
 
